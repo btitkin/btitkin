@@ -1,4 +1,4 @@
-name: generate galaga contribution graph
+name: generate bombermana contribution graph
 
 on:
   schedule:
@@ -17,11 +17,11 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate galaga SVGs
+      - name: generate bomberman SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "galaga"
+          games: "bomberman"
 
       - name: push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
