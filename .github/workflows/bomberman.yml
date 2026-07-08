@@ -1,4 +1,4 @@
-name: generate bombermana contribution graph
+name: generate bomberman contribution graph
 
 on:
   schedule:
