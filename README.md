@@ -37,7 +37,8 @@ ComfyUI, Python, TypeScript, React, Vite, Electron, MCP, SQLite, Blender add-ons
 - GitHub: [github.com/btitkin](https://github.com/btitkin)
 - ArtStation: [artstation.com/bartosztitkin](https://www.artstation.com/bartosztitkin)
 
-<!-- galaga -->
+## Contribution Arcade
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btitkin/btitkin/output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btitkin/btitkin/output/bomberman-contribution-graph.svg">
